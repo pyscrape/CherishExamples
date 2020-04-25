@@ -1,0 +1,6 @@
+urllib3==1.25.9
+beautifulsoup4==4.9.0
+selenium==3.141.0
+pyscreenshot==1.0
+pyautogui==0.9.50
+
